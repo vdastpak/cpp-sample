@@ -5,6 +5,7 @@
 
 trigger:
 - master
+- vdastpak*
 
 pool:
   vmImage: 'windows-latest'
